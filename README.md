@@ -1,4 +1,7 @@
 # Cordova Universal Links Plugin
+
+> This fork adds minor patches for compatibility.
+
 This Cordova plugin adds support for opening an application from the browser when user clicks on the link. Better known as:
 - [Universal Links on iOS](https://developer.apple.com/library/ios/documentation/General/Conceptual/AppSearch/UniversalLinks.html)
 - [Deep Linking on Android](https://developer.android.com/training/app-indexing/deep-linking.html)
